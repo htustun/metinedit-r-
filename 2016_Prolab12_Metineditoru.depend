@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1482456443 source:c:\users\pc\desktop\2016_prolab12_metineditoru\main.c
+	<stdio.h>
+	<conio.h>
+	<process.h>
+	<windows.h>
+	<stdlib.h>
+
